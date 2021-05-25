@@ -1,6 +1,7 @@
 ## Treasure Map
 
-![alt text](https://cdn.fs.teachablecdn.com/wiFJAkZZSG2RpGsxYgDO)
+
+<a href="url"><img src="https://cdn.fs.teachablecdn.com/wiFJAkZZSG2RpGsxYgDO" align="left" height="400" width="400" ></a>
 
 A program which will mark a spot with an X.
 In the starting code, you will find a variable called ```map```.
@@ -17,11 +18,12 @@ In the starting code, we have used new lines (```\n```) to format the three rows
 ```
 This is to try and simulate the coordinates on a real map. 
 
-![alt text](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440,f_auto/Co-ordinates_oggjzg.jpg)
 
 This program allows you to mark a square on the map using a two-digit system. The first digit is the vertical column number and the second digit is the horizontal row number. e.g.:
 
-![alt text](https://cdn.fs.teachablecdn.com/PfApnWnTam1pLUeKbUWZ)
+
+
+<a href="url"><img src="https://cdn.fs.teachablecdn.com/PfApnWnTam1pLUeKbUWZ" align="right" height="400" width="600" ></a>
 
 First it takes the user input and convert it to a usable format. 
 Next, nested list is updated with an "X"
