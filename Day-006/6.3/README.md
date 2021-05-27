@@ -9,5 +9,5 @@ In this exercise we will learn the use of functions.
 
 In this challenge the walls are generated randomly anywhere cross the walls and help Reeborg to reach the goal!
 
-![alt text](https://lh3.googleusercontent.com/proxy/WdVDcMpf3je-MtypGJmb6uhs1v9KKRA0yYURyqPfafk1tA6U5JheaW7zrpcGXlZc0s6tVBt1SvaR1DE0xA)
+![alt text](https://lh3.googleusercontent.com/proxy/vjAeQurLFQZsk3L5bdYoT-XyaS9nBF2j9d-pIiqG6t2HB-Jd6ntx1rGhn6OgprpEbNsXovLrQMvBX8TIRQ)
 
