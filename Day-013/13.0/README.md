@@ -1,0 +1,3 @@
+# Day 13
+
+Today, I have shown some ways how to debug the code. There are multiple ways of debugging the code. The most commonly used way is to use the print function. Also when you are badly stuck at a code it often effective to take a break and come and try it again. Also there are many websites which help you to debug the code by pointing out which line of code has a bug in it. I have tried and shown all the ways. 
