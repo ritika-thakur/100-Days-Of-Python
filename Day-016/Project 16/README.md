@@ -1,15 +1,9 @@
-```
-_________         _____  _____                  _____                .__    .__               
-\_   ___ \  _____/ ____\/ ____\____   ____     /     \ _____    ____ |  |__ |__| ____   ____  
-/    \  \/ /  _ \   __\\   __\/ __ \_/ __ \   /  \ /  \\__  \ _/ ___\|  |  \|  |/    \_/ __ \ 
-\     \___(  <_> )  |   |  | \  ___/\  ___/  /    Y    \/ __ \\  \___|   Y  \  |   |  \  ___/ 
- \______  /\____/|__|   |__|  \___  >\___  > \____|__  (____  /\___  >___|  /__|___|  /\___  >
-        \/                        \/     \/          \/     \/     \/     \/        \/     \/ 
-```
 
 # Coffee Machine Program Requirements ☕
 
 We have made this project today using Object Oriented Programming
+
+![alt text](https://media.tenor.com/images/268ecbb3f3cfd52d9a3707473bc9c9fd/tenor.gif)
 
 ### 1. Prompt user by asking ```What would you like? (espresso/latte/cappuccino):  ```
 
