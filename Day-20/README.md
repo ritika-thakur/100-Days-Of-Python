@@ -3,4 +3,4 @@ The project is divided into two days(day 20-21), in this project I have created 
 After completion the game should look something like this
 
 
-![alt text](https://i.gifer.com/KfHS.gif)
+![alt text](https://media.tenor.com/images/c380981e76531a1575fb42310d3467d2/tenor.gif)
