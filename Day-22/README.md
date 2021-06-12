@@ -1,6 +1,6 @@
 # Pong Game
 
-In today's project I have made a pong game using turtle library. Object oriented programming has been heavily.
+In today's project I have made a pong game using turtle library. Object oriented programming has been heavily used.
 Go ahead and try playing the game yourself with your friends.
 
 The output of the code should be something like the gif below. 
