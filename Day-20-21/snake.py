@@ -20,9 +20,7 @@ class Snake:
     def __init__(self):
               
         self.segments = []
-        
         self.snake_body()
-        
         self.head = self.segments[0]
         
 
@@ -37,6 +35,13 @@ class Snake:
         new_segment.penup()
         new_segment.goto(position)
         self.segments.append(new_segment)
+        
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(50000, 50000)
+        self.segments.clear()
+        self.snake_body()
+        self.head = self.segments[0]
     
     def extend(self):
         self.add_segment(self.segments[-1].position())
