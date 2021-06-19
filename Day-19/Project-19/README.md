@@ -1,0 +1,4 @@
+# Turtle race
+In this project, I have created different objects of the Turtle class of turtle graphics liberary, showing them as the participants, which are differenciated on the basis of their colors, of the turtle race located at different y positions to begin the race. The program ramdomly moves the different turtles at a time with random distances to move forward. This turtle which reaches the finish line(the x co-ordinate) first, wins the race. Also the user is asked to make their bet on a turtle which they think should win the race. 
+
+![alt text](https://media.vlpt.us/images/daylee/post/03f1c6f1-4939-4390-8cde-55d984c65c8f/image.png)
